@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import CampaignForm from './components/CampaignForm';
 import CampaignList from './components/CampaignList';
-import './app.css';
+import './App.css';
 
 function App() {
   const [darkMode, setDarkMode] = useState(
